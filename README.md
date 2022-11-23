@@ -5,7 +5,7 @@ Mini application en synfony 6.1.*,
 Application simple constituée de :
   -page d'accueil
   -page liste personnages
-  ![Screenshot](images\listePersonnage.png)
+  ![Screenshot](listePersonnage.png)
   -page personnage
   ![Screenshot](myPersonnages/public\images\personnage.png)
   -page liste armes
