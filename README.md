@@ -5,13 +5,13 @@ Mini application en synfony 6.1.*,
 Application simple constituée de :
   -page d'accueil
   -page liste personnages
-  ![Screenshot](listePersonnage.png)
+  ![Screenshot](https://github.com/BadrKarim/myPersonnages/blob/main/public/images/forReadme/listePersonnage.png)
   -page personnage
-  ![Screenshot](myPersonnages/public\images\personnage.png)
+  ![Screenshot](https://github.com/BadrKarim/myPersonnages/blob/main/public/images/forReadme/personnage.png)
   -page liste armes
-  ![Screenshot](myPersonnages/public\images\listeArmes.png)
+  ![Screenshot](https://github.com/BadrKarim/myPersonnages/blob/main/public/images/forReadme/listeArmes.png)
   -page arme
-  ![Screenshot](myPersonnages/public\images\arme.png)
+  ![Screenshot](https://github.com/BadrKarim/myPersonnages/blob/main/public/images/forReadme/arme.png)
   
 Elle ne contient pas de BDD, mais deux objets JSON "Personnage" et "Arme"
 
